@@ -1,0 +1,17 @@
+<.header>
+  User <%= @user.id %>
+  <:subtitle>Esse usuario foi salvo no banco de dados</:subtitle>
+  <:actions>
+    <.link href={~p"/users/#{@user}/edit"}>
+      <.button>Editar usuario</.button>
+    </.link>
+  </:actions>
+</.header>
+
+<.list>
+  <:item title="Nome"><%= @user.name %></:item>
+  <:item title="Email"><%= @user.email %></:item>
+  <:item title="Descricao"><%= @user.description %></:item>
+</.list>
+
+<.back navigate={~p"/users"}>Voltar aos usuarios</.back>
