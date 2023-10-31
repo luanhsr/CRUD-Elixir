@@ -18,8 +18,9 @@ Passo 3: Digite o comando a baixo para baixar o elixir:
 choco install elixir
 
 ```
-passo 4: para poder ter acesso aos comandos mix pelo terminal crie uma variavel de ambiente adicionando o path do elixir, seguindo os passos do link a baixo, no momento de adicionar o local do patch, use o endereco que esta o elixir pelo chocolatey, por padrao seria: 
-C:\ProgramData\chocolatey\lib\elixir\tools\bin
+passo 4: Adicione na variavel de ambiente a path
+C:\ProgramData\chocolatey\lib\elixir\tools\bin (windows)
+ex:
 https://www.oobj.com.br/bc/article/como-configurar-variavel-de-ambiente-no-windows-para-emiss%C3%A3o-de-mf-e-1180.html
 
 
