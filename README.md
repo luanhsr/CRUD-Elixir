@@ -18,10 +18,8 @@ Passo 3: Digite o comando a baixo para baixar o elixir:
 choco install elixir
 
 ```
-passo 4: Adicione na variavel de ambiente a path
+passo 4: Adicione na variavel de ambiente a path do elixir
 C:\ProgramData\chocolatey\lib\elixir\tools\bin (windows)
-ex:
-https://www.oobj.com.br/bc/article/como-configurar-variavel-de-ambiente-no-windows-para-emiss%C3%A3o-de-mf-e-1180.html
 
 
 Passo 5: instale o framework phoenix:
