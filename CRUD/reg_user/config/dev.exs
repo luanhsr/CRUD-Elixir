@@ -2,9 +2,9 @@ import Config
 
 # Configure your database
 config :reg_user, RegUser.Repo,
-  username: "postgres",
-  password: "postgres",
-  hostname: "localhost",
+  username: "USUARIOPOSTGRE",
+  password: "SENHAPOSTGRE",
+  hostname: "HOSTPOSTGREE",
   database: "reg_user_dev",
   stacktrace: true,
   show_sensitive_data_on_connection_error: true,
