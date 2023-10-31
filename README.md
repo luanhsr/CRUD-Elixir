@@ -1,5 +1,7 @@
 # CRUD-Elixir
  Um cadastro de usuário simples com Elixir framework Phoenix com o banco de dados Postgree:
+
+ 
 Passo 1: Clone o repositório.
 
 Passo 2: Com o terminal, navegue ate o diretorio raiz do projeto "reg_user".
